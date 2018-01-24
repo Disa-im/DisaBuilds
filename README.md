@@ -2,6 +2,6 @@
 
 Repository for all the builds compiled for Disa.
 
-Latest production build: https://github.com/Disa-im/DisaBuilds/releases/tag/Production-0.9.9.1-373
+Latest production build: https://github.com/Disa-im/DisaBuilds/releases/tag/Production-0.9.9.2-374
 
 All other builds: https://github.com/Disa-im/DisaBuilds/releases
